@@ -1,2 +1,6 @@
+Protovis
+Stem-and-Leaf Plots
+stacked graph
+SPLOM
+Choropleth Maps
 
-test
